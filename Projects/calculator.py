@@ -1,5 +1,6 @@
 operator = input("Willkommen zu deinem Taschenrechner!\n"
 "Bitte wähle einen Operator (+, -, *, /): \n")
+
 number1 = float(input("Gebe die erste Zahl an\n"))
 number2 = float(input("Gebe die zweite Zahl an\n"))
 
